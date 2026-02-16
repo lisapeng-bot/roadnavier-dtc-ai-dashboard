@@ -1,0 +1,7 @@
+{
+  "name": "Luxury Car Retrofit Copywriter & Veo Animator",
+  "description": "A high-end DTC copywriting tool for BMW and Land Rover retrofits, integrated with Veo video generation to animate car photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
